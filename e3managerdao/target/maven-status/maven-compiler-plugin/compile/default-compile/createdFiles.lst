@@ -1,0 +1,11 @@
+cn\e3mall\mapper\OrderMapper.class
+cn\e3mall\mapper\ItemCatMapper.class
+cn\e3mall\mapper\ItemParamItemMapper.class
+cn\e3mall\mapper\ItemDescMapper.class
+cn\e3mall\mapper\ContentMapper.class
+cn\e3mall\mapper\OrderItemMapper.class
+cn\e3mall\mapper\ContentCategoryMapper.class
+cn\e3mall\mapper\ItemMapper.class
+cn\e3mall\mapper\UserMapper.class
+cn\e3mall\mapper\OrderShipingMapper.class
+cn\e3mall\mapper\ItemParamMapper.class
